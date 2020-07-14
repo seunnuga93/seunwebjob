@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WebJobDeploy20200714140801" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\nugalite\\source\\repos\\WebJobDeploy\\WebJob3\\obj\\Release\\net452\\win7-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
